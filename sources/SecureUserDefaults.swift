@@ -166,7 +166,7 @@ class SecureUserDefault<T: SecureUserDefaultStringTranscodable & Codable & Equat
 
     }
 
-    static func load<T: SecureUserDefaultStringTranscodable>(_ key: String) throws -> T? {
+    static func load(_ key: String) throws -> T? {
         let fileURL = try Self.path(key)
         // Check if the file exists before gettings its attributes to avoid an annoying exception
         // while debugging.
@@ -198,7 +198,7 @@ class SecureUserDefault<T: SecureUserDefaultStringTranscodable & Codable & Equat
         try FileManager.default.removeItem(at: filename)
     }
 
-    static func store<T: SecureUserDefaultStringTranscodable>(_ key: String, value: T) throws {
+    static func store(_ key: String, value: T) throws {
         // Write to a temp file and then move it. If the destination is a link then it's not safe
         // to write to it.
         let unsafeURL = try self.path(key)

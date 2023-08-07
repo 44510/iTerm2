@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		EaiNzB1DYL8OY4CCyml2Wf0oIEE=
+		ZJAdlg+ExrEMD3s7MyPl47BF378=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,21 +15,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qh4e7w3vVpPftDgVYPq/ZHzxAgANmCDHpAhdh/TyNpQ=
+			ipm4s9re2bUZDvIn04LGJl9FYEPLssovvipy6mJ8sHw=
 			</data>
 		</dict>
 		<key>Modules/SwiftyMarkdown.swiftmodule/Project/arm64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n3cA1N4f+gulSH4nDSuBG9lL0oOCMew67o6RjIg3+y4=
+			u5mFM7TfVTNe3xod78nkyh0RVNlXGTpMchzjagF689s=
 			</data>
 		</dict>
 		<key>Modules/SwiftyMarkdown.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S6PuesXzx8W4SPC+FFRTCbnzyvU4Kxtm+18iWWu1c24=
+			1O1FZFvNmYmObZ2AsL1s1ZKYoVTUhRJIoTDfX2WeaPw=
 			</data>
 		</dict>
 		<key>Modules/SwiftyMarkdown.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -43,14 +43,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HIeBmlW2J010u/W9ziYglufJR4Ob/A9R8dt4OtdmCYU=
+			wT2nHgFYL5bIhffXulcNqlTGivCRA335ewfspWIE7MI=
 			</data>
 		</dict>
 		<key>Modules/SwiftyMarkdown.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MVoqK6vYJhO9nJJC8Sk4wLsopVzvVT+lp4QPuhcJFYI=
+			ScjPxYmRI1ySbT+YGOZhjRlpR+OZOLt2TupVTQc6W+0=
 			</data>
 		</dict>
 		<key>Modules/SwiftyMarkdown.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -64,21 +64,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5omQLAmvqvYgR4ZZz0ijc+BifdZGnwSwugd6Hiq/FzQ=
+			r5QzEBqD0h9DxNsFXRpjULyv2zutobTXtoq19D1HeV4=
 			</data>
 		</dict>
 		<key>Modules/SwiftyMarkdown.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kAjbsejaaT/c4cBlGV08dxQpStRigNH6mUTMaeKSs8Y=
+			C1uSK7mX220CpYezuGe/HQHBFZdWyuEn3nUfPp8p09k=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YUh24D9YyY0KtHTESMwdY4PcCwDbB43kalgwiENVt34=
+			KlOYChK8o4/+MNK9ylbEFmVmFGZXDVxD0ze/VfbFADE=
 			</data>
 		</dict>
 	</dict>

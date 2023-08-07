@@ -11,11 +11,6 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface NSResponder (iTerm)
-// -representedObject of sender is an iTermAction
-- (void)applyAction:(id)sender;
-@end
-
 @interface iTermActionsMenuController : NSObject
 
 @end
